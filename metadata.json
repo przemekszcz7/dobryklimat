@@ -1,0 +1,6 @@
+{
+  "name": "Dobry Klimat - Domowe Obiady",
+  "description": "Swojski bar obiadowy, serwujący dania będące częścią tradycji kulinarnej kraju. Topolowa 46A, Lubin 59-300.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
